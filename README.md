@@ -6,10 +6,7 @@ Después de registrar un correo (puede ser cualquiera, inventado si quieres), pu
 
 Para esto se utilizó:
 
-Andt - Vue3
-Pinia
-Firebase9
-Vite
+Andt - Vue3 - Pinia - Firebase9 - Vite
 
 Ejercicio del curso de Udemy impartido por Bluuweb.
 
