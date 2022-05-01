@@ -1,8 +1,15 @@
-Versión final Web App:
+Versión actual Web App:
 
 https://pinia-vite-fire9.web.app/login
 
-Después de loguear con un correo, puedes accedes a un listado de URL's que puedes agregar, modificar o eliminar. La seguridad está hecha a través de las reglas de Firebase, además de lo que se puede hacer en Front. 
+Después de registrar un correo (puede ser cualquiera, inventado si quieres), puedes accedes a un listado de URL's que puedes agregar, modificar o eliminar. La seguridad está hecha a través de las reglas de Firebase, además de lo que se puede hacer en Front. 
+
+Para esto se utilizó:
+
+Andt - Vue3
+Pinia
+Firebase9
+Vite
 
 # Vue 3 + Vite
 
