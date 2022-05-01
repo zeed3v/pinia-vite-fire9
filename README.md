@@ -1,4 +1,4 @@
-Versión final Web App:
+Primera versión Web App:
 
 https://pinia-vite-fire9.web.app/
 
